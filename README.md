@@ -1,3 +1,4 @@
 # quizzer
 
-Quizzer program using php and MySQL. 
+Quizzer program using PHP and MySQL.
+
