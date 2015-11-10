@@ -1,0 +1,6 @@
+prereq: PHP and MySQL
+upload files to webserver
+create a new database named "cl13-quizzer" and make your own password
+edit "PASSWORD" in database.php to your own password
+import cl13-quizzer.sql to cl13-quizzer database
+navigate to yoursite ex. "http://yoursitehere.com/quizzer/index.php"
