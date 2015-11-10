@@ -3,7 +3,7 @@
 $db_host = 'localhost';
 $db_name = 'cl13-quizzer';
 $db_user = 'cl13-quizzer';
-$db_pass = 'dylmcco11';
+$db_pass = 'PASSWORD';
 
 //Create mysqli object
 $mysqli = new mysqli($db_host, $db_user, $db_pass, $db_name);
