@@ -1,6 +1,6 @@
 <?php include 'database.php'; ?>
 <?php
-/*
+/*	Dylan McComas
  *	Get Total Questions
  */
  $query ="SELECT * FROM questions";
